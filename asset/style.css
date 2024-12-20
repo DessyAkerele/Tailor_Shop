@@ -1,0 +1,46 @@
+.nav-color {
+    color: white;
+    font-size: 20px;
+}
+.nav-bg{
+    background-color: rgba(0, 0, 0, 0.877);
+}
+.navbar-brand-cust{
+    color: white;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button-color{
+    color: white;
+}
+.navbar-brand-cust:hover{
+    color: rgb(116, 194, 88);
+}
+.nav-color:hover{
+    color: rgb(116, 194, 88);
+}
+.span-1{
+    font-style: italic;
+}
+.section1-text1{
+    font-size: 70px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    padding: 300px 100px 0px 100px !important;
+}
+.section1-text2{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.845);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 0px 180px 0px;
+}
+.contact-section2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 0px 50px 0px;
+}
+.section3-text1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    margin: 50px 0px 0px 0px;
+}
